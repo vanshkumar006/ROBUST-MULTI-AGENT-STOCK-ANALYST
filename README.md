@@ -1,7 +1,7 @@
 Robust Multi-Agent Stock Analyst 📈🤖
 An autonomous financial analysis system developed during the Google & Kaggle 5-Day AI Intensive. This project leverages Gemini 2.5 Flash-Lite and the modern Google Gen AI SDK to orchestrate a team of specialized agents that synthesize Machine Learning predictions with real-time financial data.
 
-Kaggle Notebook Link : https://www.kaggle.com/code/vanshkumar006/robust-multi-agent-stock-analyst/edit
+Kaggle Notebook Link : https://www.kaggle.com/code/vanshkumar006/robust-multi-agent-stock-analyst
 
 🚀 Overview
 Unlike standard chatbots, this system uses Agentic Workflows and Function Calling to act as a Hedge Fund Manager. It doesn't just "chat"; it executes code, trains models, and retrieves live market data to provide a data-driven investment verdict.
